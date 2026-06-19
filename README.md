@@ -37,7 +37,9 @@ Highlighted seasonal shopping trends and product preferences.
 
 Built a dashboard enabling stakeholders to make data‑driven decisions quickly.
 
-📷 Dashboard Preview:
+
+
+# 📷 Dashboard Preview:
 <img width="1562" height="847" alt="Dashboard" src="https://github.com/user-attachments/assets/26a0363a-1596-46b4-814c-a6e0d4126f77" />
 
 
