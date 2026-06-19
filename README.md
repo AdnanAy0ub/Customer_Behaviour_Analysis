@@ -49,7 +49,10 @@ Built a dashboard enabling stakeholders to make data‑driven decisions quickly.
 
 
 
-📜 License
+
+
+
+## 📜 License
 MIT — feel free to fork, star, and use in your portfolio.
 
 
