@@ -26,9 +26,11 @@ Customer-Behavior-Analysis/
 ├─ Dashboard/                  # Power BI dashboard
 ├─ Data/                       # Raw Dataset
 ├─ Reports/                    # Project report & presentation
-└─ README.md                   # Documentation
+└─ README.md                   # Documentation.
+```
 
-📌 Key Insights
+---
+## 📌 Key Insights
 Identified customer loyalty segments and purchase drivers.
 
 Highlighted seasonal shopping trends and product preferences.
