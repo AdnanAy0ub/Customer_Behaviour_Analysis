@@ -1,3 +1,2 @@
-.sql linguist-detectable=false
-.ipynb linguist-detectable=false
-*.pbix filter=lfs diff=lfs merge=lfs -text
+*.ipynb linguist-vendored
+*.sql linguist-vendored
